@@ -1,5 +1,5 @@
-# Keypub
+# Shamebot
 
-A pub where all the pubkeys hang out. A micro-client by [Coracle](https://coracle.tools) for keeping up with people you follow, but who don't post very often.
+ A micro-client by [Coracle](https://coracle.tools) for seeing what other people are searching for using DVMs.
 
-Try it [here](https://keypub.coracle.social).
+Try it [here](https://shamebot.coracle.social).
